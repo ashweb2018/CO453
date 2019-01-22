@@ -20,8 +20,8 @@ namespace CO453_ConsoleApp
 
             // create two new objects from the class
 
-            Ashley ashley1 = new Ashley();
-            Ashley ashley2 = new Ashley();
+            //Ashley ashley1 = new Ashley();
+           //Ashley ashley2 = new Ashley();
 
             // Use the static method from the class
 

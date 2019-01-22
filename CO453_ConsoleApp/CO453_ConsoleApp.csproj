@@ -45,6 +45,7 @@
     <Compile Include="Ashley.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserLib.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
