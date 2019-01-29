@@ -1,8 +1,5 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using CO453_ConsoleApp.unit4;
 
 namespace CO453_ConsoleApp
 {
@@ -16,21 +13,18 @@ namespace CO453_ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Ashley!");
 
-            // create two new objects from the class
-
-            //Ashley ashley1 = new Ashley();
-           //Ashley ashley2 = new Ashley();
-
-            // Use the static method from the class
-
-            Ashley.WriteTitle("My Wonder Application");
-            Ashley.WriteTitle("My Wizard Application");
+            TestBook.Test();
 
             Console.ReadKey();
 
             // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
+        }
+
+        public void Archive()
+        {
+            TestDistanceConverter.TestMilesToFeet();
+            TestDistanceConverter.TestFeetToMiles();
         }
     }
 }

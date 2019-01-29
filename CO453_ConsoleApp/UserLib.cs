@@ -14,7 +14,7 @@ namespace CO453_ConsoleApp
 
     /// 
 
-    /// Author: Derek Peacock
+    /// Author: Ashley Henney
 
     /// </summary>
 
@@ -28,7 +28,7 @@ namespace CO453_ConsoleApp
 
             Console.WriteLine("--------------------------");
 
-            Console.WriteLine(" Derek's " + title);
+            Console.WriteLine(" Ashley's " + title);
 
             Console.WriteLine("--------------------------");
 

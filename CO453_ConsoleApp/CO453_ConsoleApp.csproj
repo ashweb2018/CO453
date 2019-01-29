@@ -45,6 +45,10 @@
     <Compile Include="Ashley.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="unit4\Book.cs" />
+    <Compile Include="unit4\DistanceConverter.cs" />
+    <Compile Include="unit4\TestBook.cs" />
+    <Compile Include="unit4\TestDistanceConverter.cs" />
     <Compile Include="UserLib.cs" />
   </ItemGroup>
   <ItemGroup>
